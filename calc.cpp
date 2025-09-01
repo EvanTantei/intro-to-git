@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//command
 int main(){
 	int a, b;
 	a = 25;
